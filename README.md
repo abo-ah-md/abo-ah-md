@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah alshebel</h1>
 <h3 align="center">A passionate Full-Stack web developer</h3>
 
+<p align="right"><a href="https://app.daily.dev/aboahmd"><img src="https://api.daily.dev/devcards/f900a1c0cbad485bbd7970f3cc055490.png?r=6yp" width="400" alt="Abdullah alshebel's Dev Card"/></a></p>
+
+
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
