@@ -3,7 +3,7 @@
 
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/abo-ah-md/abo-ah-md/blob/main/devcard.svg" width="400" alt="abo-ah-md"/></a>
+<a href="https://app.daily.dev/aboahmd"><img src="https://github.com/abo-ah-md/abo-ah-md/blob/main/devcard.svg" width="400" alt="abo-ah-md"/></a>
 
 
 
