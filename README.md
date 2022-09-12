@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah alshebel</h1>
-<h3 align="center">A passionate Full-Stack web developer</h3>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7D524&center=true&vCenter=true&multiline=true&width=438&height=57&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+alshebel;A+passionate+FullStack+web+developer)](https://git.io/typing-svg)
 
 <a href="https://app.daily.dev/aboahmd"><img src="https://github.com/abo-ah-md/abo-ah-md/blob/main/devcard.svg" width="400" alt="abo-ah-md"/></a>
 
