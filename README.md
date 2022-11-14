@@ -59,8 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML   7 mins          ██████████████████████░░░   87.77 %
-Git    1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
