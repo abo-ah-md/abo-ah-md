@@ -12,17 +12,17 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abo-ah-md&label=Profile%20views&color=0e75b6&style=flat" alt="abo-ah-md" /> </p>
-- 🔭 I’m currently working on a web application [Splace](😁)
+- 🔭 I’m currently working on a web application [Rahala](😁)
 
-- 🌱 I’m currently learning **React + React Native**
+- 🌱 I’m currently learning **React +Tailwind + **
 
-- 👯 I’m looking to collaborate on any Project **.**
+- 👯 I’m looking for collaboraters on [Rahala] Project **.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abo-ah-md](https://github.com/abo-ah-md)
 
-- 💬 Ask me about **CSS,Nodejs,JavaScript**
+- 💬 Ask me about **HTML,CSS,Nodejs,JavaScript,ChatGPT,API**
 
-- 📫 How to reach me **abo-ah-md1@hotmail.com**
+- 📫 How to reach me **a.alshebel.dev@gmail.com**
 
 - ⚡ Fun fact **I'm a people person**
 
