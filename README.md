@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7D524&center=true&vCenter=true&multiline=true&width=438&height=57&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+alshebel;A+passionate+FullStack+web+developer+and+a+UX/UI+designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7D524&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+alshebel;A+passionate+FullStack+web+developer+and+a+UX/UI+designer)](https://git.io/typing-svg)
 
  
 
