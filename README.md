@@ -58,7 +58,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript   5 hrs 50 mins   ████████████████░░░░░░░░░   64.42 %
 Docker       1 hr 53 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
 HTML         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
