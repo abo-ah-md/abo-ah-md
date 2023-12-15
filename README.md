@@ -59,9 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML       1 hr 9 mins     █████████████████████████   99.46 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
