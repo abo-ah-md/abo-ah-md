@@ -59,9 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     0 secs          █████████████▒░░░░░░░░░░░   52.97 %
-TSQL     0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.69 %
-Prolog   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
