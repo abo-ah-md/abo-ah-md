@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdullah%20Alshebel&fontSize=48&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<pre>
-░█▀█░█░█░█▀▄░█░█░█▀▄░█▀▀░█░░░█░█░█▀▀░█▀▀░█░█
-░█▀▀░█░█░█▀▄░█░█░█▀▄░█▀▀░█░░░▀▄▀░█▀▀░█░░░█▀█
-░▀░░░▀▀▀░▀▀░░▀▀▀░▀▀░░▀▀▀░▀▀▀░░▀░░▀▀▀░▀▀▀░▀░▀
-</pre>
+![Dev Card](https://api.daily.dev/devcards/v2/0TngyORGogiRDhenLktO0.png?type=wide&r=uxb)
+
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1600&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;React+%7C+TypeScript+%7C+Node.js;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing" />
 
