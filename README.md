@@ -1,10 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdullah Alshebel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdullah%20Alshebel&fontSize=48&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+<pre>
+░█▀█░█░█░█▀▄░█░█░█▀▄░█▀▀░█░░░█░█░█▀▀░█▀▀░█░█
+░█▀▀░█░█░█▀▄░█░█░█▀▄░█▀▀░█░░░▀▄▀░█▀▀░█░░░█▀█
+░▀░░░▀▀▀░▀▀░░▀▀▀░▀▀░░▀▀▀░▀▀▀░░▀░░▀▀▀░▀▀▀░▀░▀
+</pre>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=835&lines=React+%7C+TypeScript+%7C+Node.js;Building+Cool+Stuff+Every+Day!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1600&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;React+%7C+TypeScript+%7C+Node.js;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abo-ah-md&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/abo-ah-md)
 
@@ -12,46 +16,33 @@
 
 ---
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 
-```typescript
+```ts
 const abdullah = {
-    pronouns: "He" | "Him",
-    location: "Saudi Arabia 🇸🇦",
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "API design", "ChatGPT integrations"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Flask"]
-        },
-        databases: ["MySQL", "SQLite", "MongoDB"],
-        misc: ["REST APIs", "Git", "Docker"]
-    },
-    currentProject: "Rahala - Web Application Platform",
-    funFact: "I'm a people person who codes! 😄"
+  pronouns: 'he/him',
+  location: 'Saudi Arabia 🇸🇦',
+  code: ['JavaScript', 'TypeScript', 'Python', 'HTML', 'CSS'],
+  askMeAbout: ['web dev', 'API design', 'ChatGPT integrations', 'UX'],
+  technologies: {
+    frontEnd: { js: ['React', 'Next.js'], css: ['Tailwind', 'Bootstrap', 'MUI'] },
+    backEnd: { js: ['Node.js', 'Express'], python: ['Flask'] },
+    databases: ['MySQL', 'SQLite', 'MongoDB'],
+    misc: ['REST APIs', 'Git', 'Docker']
+  },
+  currentProject: 'Rahala - Web Application Platform',
+  funFact: "I'm a people person who codes! 😄"
 };
 ```
 
----
-
-## 🎯 What I'm Up To
-
-🔭 **Currently Working On:** [Rahala](https://github.com/abo-ah-md/rahalah) - An exciting web application project
-
-🌱 **Learning:** React, Tailwind CSS, TypeScript, Advanced API Integrations
-
-👯 **Open to Collaborate On:** Innovative web projects and open-source contributions
-
-💼 **All My Projects:** [github.com/abo-ah-md](https://github.com/abo-ah-md)
+- 🔭 Currently building: [Rahala](https://github.com/abo-ah-md/rahalah)
+- 🌱 Learning: React, TailwindCSS, TypeScript, Advanced API Integrations
+- 👯 Open to: Collaborations on innovative web projects and OSS
+- 💼 All my work: [github.com/abo-ah-md](https://github.com/abo-ah-md)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -64,11 +55,11 @@ const abdullah = {
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -85,12 +76,12 @@ const abdullah = {
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abo-ah-md&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Abdullah's GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abo-ah-md&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abo-ah-md&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abo-ah-md&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abo-ah-md&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abo-ah-md&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Activity Graph" />
@@ -99,7 +90,7 @@ const abdullah = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
@@ -109,7 +100,7 @@ const abdullah = {
 
 ---
 
-## 🎨 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -119,7 +110,7 @@ const abdullah = {
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -133,28 +124,20 @@ const abdullah = {
 
 ---
 
-## 📈 Profile Stats
+## 🧩 Fun Zone
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abo-ah-md&theme=tokyonight" alt="Profile Summary" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+<img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" height="350" />
 
 </div>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
-### 💭 Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
-
-⭐️ **From [abo-ah-md](https://github.com/abo-ah-md) with ❤️**
-
+⭐️ From [abo-ah-md](https://github.com/abo-ah-md) with ❤️
 </div>
